@@ -3,7 +3,7 @@ Playground
 
 ### Requirements
 
-* Java 8
+* Java 10
 
 ## Description
 
